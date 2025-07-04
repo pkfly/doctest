@@ -25,6 +25,8 @@
 - **引用:**
   > "Stay hungry, stay foolish." - Steve Jobs
 
+[作成済みページへ](./main.md)
+
 - **コード:**
   `console.log("Hello, World!");` のようなインラインコードや、下の様なコードブロックも簡単です。
 
